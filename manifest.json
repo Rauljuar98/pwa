@@ -1,0 +1,28 @@
+{
+    "name": "Bryan David Aguilar Talamabtes PWA",
+    "short_name": "DGR-PWA",
+    "description": "Aplicación PWA",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "landscape",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+    
+        {
+            "src": "img/androidandroid-launchericon-72-72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "img/androidandroid-launchericon-144-144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "img/androidandroid-launchericon-192-192.png",
+            "sizes": "192x192"
+        }
+      
+    ]
+}
